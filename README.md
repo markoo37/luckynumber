@@ -1,1 +1,1 @@
-# luckynumber
+# ekke szolgáltatás orientált programozás vizsgabeadandó
